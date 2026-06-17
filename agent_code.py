@@ -721,9 +721,9 @@ show_query_retrieval(test_dataset, memory, query_idx=10, current_time=100, mode=
 
 
 # ============================================================
-# 16. Suggested Paper Claims
+# 16. Paper Claims
 # ============================================================
-# You can report:
+# Results Report:
 # 1. Identity-aligned forgetting retains self-relevant memories longer.
 # 2. Compared to pure time decay, identity-aligned forgetting preserves
 #    retrieval accuracy for self-relevant classes.
